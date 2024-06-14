@@ -1,1 +1,1 @@
-# ECG_Classification
+# Arrythemia Classification

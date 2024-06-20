@@ -1,4 +1,4 @@
-## Arrhythmia Detection with Machine Learning
+## Arrhythmia Detection with ANN
 
 ### Overview
 This project focuses on improving the accuracy and efficiency of arrhythmia detection using advanced machine learning techniques. By analyzing ECG data with sophisticated algorithms and pretrained neural networks, we achieved a high diagnostic accuracy of 99% across various types of arrhythmias.
